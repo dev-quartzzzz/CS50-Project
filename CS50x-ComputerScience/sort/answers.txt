@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: The graph of worst case is nearly parabola trend, and the best case is nearly linear.
+
+sort2 uses: Merge Sort
+
+How do you know?: Worst case and best case are the same as linear, so it could be a nlog(n).
+
+sort3 uses: Selection Sort
+
+How do you know?:  All cases have same progression and look like parabola tread.
